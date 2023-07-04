@@ -22,6 +22,9 @@ Happy chatting!
 
 <img width="261" alt="image" src="https://github.com/Farhan083/Flutter-Chat-App/assets/74817771/0e54796d-a1ed-4934-b65a-0ea1773ccac7">
 
+<img width="250" alt="image" src="https://github.com/Farhan083/Flutter-Chat-App/assets/74817771/29ca6ac9-e763-4437-9c73-ba73710fe81b">
+
+
 <img width="192" alt="image" src="https://github.com/Farhan083/Flutter-Chat-App/assets/74817771/165ab82c-899a-452b-8654-dec2e3746b44">
 
 <img width="193" alt="image" src="https://github.com/Farhan083/Flutter-Chat-App/assets/74817771/ad20f30d-1ebc-4f7e-b8dc-21735cc4a910">
